@@ -14,11 +14,11 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
+let capacityOfPhone = "8,000 MB"
 
+let videosLeft = "33"
 
-
-
-
+let warningMessage = "You can watch \(videosLeft) more minutes of videos before you reach the limit, which is \(capacityOfPhone)."
 
 /*:
  
